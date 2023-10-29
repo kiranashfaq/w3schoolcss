@@ -1,0 +1,218 @@
+header {
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  background-color: white;
+  height: 60px;
+}
+nav {
+  width: 100%;
+  height: 50px;
+  background-color: white;
+
+  margin-top: 0%;
+  margin-bottom: -7px;
+}
+.main {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0px;
+}
+.logo {
+  width: 70px;
+  height: 70px;
+  margin-top: -10px;
+}
+.inline {
+  display: flex;
+}
+.navli:hover {
+  background-color: rgb(78, 182, 78);
+  color: white;
+}
+.navli {
+  margin-left: 40px;
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+.div2 {
+  margin-left: 200px;
+}
+.search {
+  margin-left: 40px;
+  border-radius: 20px;
+  padding: 10px 15px;
+}
+.but1 {
+  border-radius: 20px;
+  padding: 15px 35px;
+  background-color: rgb(78, 182, 78);
+  color: white;
+  border: 1px solid rgb(78, 182, 78);
+  margin-left: 70px;
+}
+.but2 {
+  border-radius: 20px;
+  padding: 15px 35px;
+  background-color: aliceblue;
+  color: black;
+  border: 1px solid aliceblue;
+}
+.div3 {
+  margin-top: -3px;
+  background-color: black;
+  width: 100%;
+  height: 40px;
+  margin-left: -10px;
+  /* position: fixed;
+  top: 60px */
+}
+.list:hover {
+  text-decoration: underline;
+}
+.list {
+  color: white;
+  list-style: none;
+  margin-right: 30px;
+  padding-top: 9px;
+}
+.slider {
+  background-color: rgb(223, 227, 230);
+  overflow: auto;
+  width: 20%;
+  height: 540px;
+  margin-left: -10px;
+  margin-top: 100px;
+  position: fixed;
+  top: 0%;
+}
+.sliderhead {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 35px;
+  font-size: 20px;
+}
+.sliderlist:hover {
+  background-color: rgb(78, 182, 78);
+}
+.sliderlist {
+  list-style: none;
+  padding-top: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+.main2 {
+  display: flex;
+}
+.body {
+  margin-top: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 300px;
+  border-right: 1px solid rgb(204, 223, 238);
+}
+.Tutorial {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.but3 {
+  background-color: rgb(78, 182, 78);
+  color: white;
+  padding: 15px 30px;
+  border: rgb(89, 172, 89);
+  border-radius: 8px;
+  margin-left: 20px;
+}
+.but4 {
+  background-color: rgb(78, 182, 78);
+  color: white;
+  padding: 15px 30px;
+  border: rgb(89, 172, 89);
+  border-radius: 8px;
+  margin-left: 590px;
+}
+.div4 {
+  background-color: rgb(193, 228, 215);
+  width: 880px;
+  margin-left: -35px;
+}
+.points {
+  padding-top: 30px;
+  list-style: none;
+  padding-bottom: 10px;
+}
+.but5 {
+  background-color: rgb(78, 182, 78);
+  color: white;
+  padding: 15px 30px;
+  border: rgb(89, 172, 89);
+  border-radius: 8px;
+  margin: 20px 0px;
+}
+.banner {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.ad {
+  margin-top: 100px;
+  margin-left: 30px;
+}
+.add {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.pic {
+  margin-top: 40px;
+}
+.point {
+  list-style: none;
+  padding-top: 30px;
+  margin-left: -40px;
+}
+.examples {
+  background-color: rgb(223, 227, 230);
+  width: 860px;
+  margin-left: -30px;
+  border-radius: 10px;
+  height: 500px;
+}
+.example {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.exam {
+  background-color: white;
+  width: 800px;
+  height: 350px;
+  margin: auto;
+  border-left: 5px solid rgb(78, 182, 78);
+}
+.element {
+  color: brown;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.property {
+  color: red;
+  padding-left: 40px;
+  /* padding-top: 70px; */
+}
+.value {
+  color: blue;
+}
+.brac {
+  padding-left: 20px;
+}
+.but6 {
+  background-color: rgb(78, 182, 78);
+  color: white;
+  padding: 15px 30px;
+  border: rgb(89, 172, 89);
+  border-radius: 8px;
+  margin: 20px 0px;
+  margin-left: 25px;
+}
+.lastpic {
+  margin: 40px 180px;
+}
